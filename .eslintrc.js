@@ -63,6 +63,7 @@ module.exports = {
         'arrow-body-style': 'off',
         'ulbi-tv-plugin/path-checker': 'error',
         'linebreak-style': 'off',
+        'semi':'off'
     },
     globals: {
         __IS_DEV__: true,
